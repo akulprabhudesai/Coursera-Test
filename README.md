@@ -1,2 +1,1 @@
-# Coursera-Test
-Coursera Test repository
+Coursera HTML-CSS repository
